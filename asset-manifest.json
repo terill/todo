@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/todo/static/css/main.41ccf661.css",
-    "main.js": "/todo/static/js/main.e6ea244e.js",
+    "main.css": "/todo/static/css/main.a1f1c022.css",
+    "main.js": "/todo/static/js/main.687ec4a4.js",
     "index.html": "/todo/index.html"
   },
   "entrypoints": [
-    "static/css/main.41ccf661.css",
-    "static/js/main.e6ea244e.js"
+    "static/css/main.a1f1c022.css",
+    "static/js/main.687ec4a4.js"
   ]
 }
